@@ -2,14 +2,11 @@
 ネットワークを介して、複数枚の画像でリップシンクするアプリ
 
 # 使い方
-1. 一度起動すると、以下のパスにフォルダが作成されます
-  
-  `C:\Users\<ユーザー名>\AppData\LocalLow\TyounanMOTI\IconLipSync`
-  
+1. 一度起動すると、以下のパスにフォルダが作成されます  
+`C:\Users\<ユーザー名>\AppData\LocalLow\TyounanMOTI\IconLipSync`
 2. 上記フォルダに`<Twitter ID>.json`ファイルを作成
-3. `<Twitter ID>.json`ファイルに以下のコードを貼り付け
-
-```
+3. `<Twitter ID>.json`ファイルに以下のコードを貼り付け  
+```json
 {
   "name": "<Twitter ID>",
   "visemes": {
@@ -25,8 +22,7 @@
 }
 ```
 
-4. 上記JSONファイルを編集する
-  
+4. 上記JSONファイルを編集する  
   filterは`"Trilinear"`または`"Point"`を指定できます。
   
 5. 画像ファイルをJSONファイルと同じフォルダに配置する

@@ -27,6 +27,7 @@
   
 5. 画像ファイルをJSONファイルと同じフォルダに配置する
 6. IconLipSyncアプリの Streamer Name に Twitter ID を入力する（「@」抜き）
-7. IconLipSyncアプリの Room Name に参加したい部屋の名前を入力する
+7. IconLipSyncアプリの Room Name に参加したい部屋の名前を入力する  
+  部屋がなければ作成されます。
 8. 「ルームへ参加」ボタンを押す
 9. 参加したいルームがある場合は、そのルーム名を入力して参加する

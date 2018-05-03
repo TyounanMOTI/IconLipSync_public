@@ -2,8 +2,8 @@
 ネットワークを介して、複数枚の画像でリップシンクするアプリ
 
 # 使い方
-1. 一度起動すると、以下のパスにフォルダが作成される  
-`C:\Users\<ユーザー名>\AppData\LocalLow\TyounanMOTI\IconLipSync`
+1. 一度起動すると、以下のパスにフォルダが作成される  
+  `C:\Users\<ユーザー名>\AppData\LocalLow\TyounanMOTI\IconLipSync`
 2. 上記フォルダに`<Twitter ID>.json`ファイルを作成
 3. `<Twitter ID>.json`ファイルに以下のコードを貼り付け  
 ```json
